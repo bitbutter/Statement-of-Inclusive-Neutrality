@@ -1,15 +1,27 @@
 # Statement of Inclusive Neutrality
 
-## Conditions of Inclusion
+## Introduction
 
-Our aim is that everyone, regardless of identity, ideology, or background, should feel welcome in our community. A person's inclusion here is not contingent on ideological alignment, but on their commitment to respectful behavior in the spaces of the project.
+The **Statement of Inclusive Neutrality** is a set of principles designed to foster an inclusive and respectful environment for software projects, regardless of identity, ideology, or background. It provides guidelines for ensuring that participation in a community is not contingent on ideological alignment, but rather on adherence to norms of respectful behavior.
 
-## Non-Favoritism in Moderation
+This repository hosts different versions of the statement, each representing a snapshot of how the principles have evolved over time. You can adopt, adapt, or reference these statements for your own projects to establish clear expectations for community behavior and moderation.
 
-We recognize that ideological diversity exists within all groups, including those traditionally marginalized or protected. True inclusivity for all members, including the most marginalized, is upheld by fostering civility and kindness without favoritism. Moderation decisions will focus solely on users' adherence to the norms of civility and kindness in the spaces of the project.
+### How to Use
 
-We encourage all members to share their perspectives, including dissenting ones, as long as they do so respectfully. We encourage members to always bear in mind that agreement is not necessary.
+- Browse the available versions of the statement in this repository.
+- You are welcome to use the latest version or select an earlier one that best aligns with your project’s goals.
+- Each version is stored as a separate Markdown file (e.g., `STATEMENT_v1.0.md`, `STATEMENT_v1.1.md`).
+- To adopt a version, simply copy the relevant file to your project’s root directory or documentation, or link to this repository.
 
-## Operational Assumption of Good Faith
+### Quick Link for Developers
 
-We expect all participants to act as though others in these spaces are engaging in good faith. Focusing on the content of contributions, rather than speculating on intent, ensures that dialogue remains constructive.
+If you would like to reference this statement in your own project, you can easily add the following line to your `README.md` or project documentation:
+
+This project operates in accordance with the [Statement of Inclusive Neutrality v1.0](https://github.com/bitbutter/Statement-of-Inclusive-Neutrality/blob/master/STATEMENT_v0.9.md).
+
+Replace the version number in the link with the version you are adopting.
+
+### Contributing
+This repository is open to contributions. If you would like to suggest revisions or propose new versions of the statement, please submit a pull request.
+### License
+The Statement of Inclusive Neutrality is released under the MIT License. You are free to use, modify, and distribute this statement as long as you include attribution to the original repository. The MIT License ensures that these principles remain open and available for adaptation by any software project.

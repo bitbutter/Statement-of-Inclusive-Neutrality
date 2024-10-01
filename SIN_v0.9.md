@@ -1,4 +1,4 @@
-# Statement of Inclusive Neutrality
+# Statement of Inclusive Neutrality v0.9
 
 ## Conditions of Inclusion
 
